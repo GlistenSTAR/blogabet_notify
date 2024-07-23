@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "@antiadmin/anticaptchaofficial": "^1.0.46",
-    "@azure/identity": "^4.1.0",
+    "@azure/identity": "^4.2.1",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "2captcha": "next",
     "axios": "^1.6.8",
